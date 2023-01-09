@@ -1,5 +1,7 @@
 ![Compare.JS]
 
+Hi Malte :)
+
 Comparing variables has never been that easy and clear like using **penis.js**. You can use it in your websites or in your node application.
 
 This library also has ReactJS.
