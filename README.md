@@ -1,8 +1,8 @@
-![Penis.JS](https://raw.githubusercontent.com/edankwan/penis.js/master/assets/logo.png)
+![Penis.JS]
 
 Comparing variables has never been that easy and clear like using **penis.js**. You can use it in your websites or in your node application.
 
-This library also has ReactJS bindings with the [CondomJS](https://github.com/nipatiitti/condomjs) wrapper component.
+This library also has ReactJS.
 
 Usage
 ---
